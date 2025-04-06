@@ -41,7 +41,7 @@ img {
 
 @media (max-width: 768px) {
   .sidebar-container {
-    background-color: #2c2f4a;
+    background-color: #000000;
     padding: 1.5rem;
     border-radius: 12px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
